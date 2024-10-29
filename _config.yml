@@ -14,9 +14,9 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: hvunrnin 블로그 # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: 🐥 🔆 🌱 🥨 🍭 # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
@@ -26,10 +26,10 @@ description: >- # used by seo meta and the atom feed
 url: "https://hvunrnin.github.io"
 
 github:
-  username: github_username # change to your GitHub username
+  username: hvunrnin # change to your GitHub username
 
-twitter:
-  username: twitter_username # change to your Twitter username
+# twitter:
+#   username: twitter_username # change to your Twitter username
 
 social:
   # Change to your full name.
@@ -38,7 +38,7 @@ social:
   email: example@domain.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your Twitter homepage
+    # - https://twitter.com/username # change to your Twitter homepage
     - https://github.com/username # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
