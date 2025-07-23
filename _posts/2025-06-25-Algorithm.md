@@ -1,7 +1,7 @@
 ---
-title: "[백준] 가운데를 말해요"
+title: "[백준] 컵라면"
 author: "hvunrnin"
-date: 2025-06-05 10:00:00 
+date: 2025-06-25 10:00:00 
 categories: [Algorithm, Java]
 tags: [Algorithm, Java]
 math: true
